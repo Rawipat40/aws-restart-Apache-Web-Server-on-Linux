@@ -1,8 +1,17 @@
-Description: Hand-on Apache Web Server on Linux to understand Apache Web Server and Linux
+## Description: 
 
-Technologies Used: -Linux -Apache Web Server
+Hand-on Apache Web Server on Linux to understand Apache Web Server and Linux
 
-What I Learned: This Hand-on Apache Web Server on Linux allowed me to enhance my skills in Linux.
+## Technologies Used: 
+
+  -  Linux 
+  -  Apache Web Server
+
+## What I Learned: 
+
+This Hand-on Apache Web Server on Linux allowed me to enhance my skills in Linux.
+
+## 
 
 ![Apache-Web-Server-on-Linux1](https://github.com/Rawipat40/aws_restart-Apache-Web-Server-on-Linux/assets/141838218/35212b91-521e-4228-b85a-d4af62338eb9)
 
